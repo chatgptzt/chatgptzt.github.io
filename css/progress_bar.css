@@ -20,7 +20,7 @@
   
   .pace-inactive .pace-progress {
     opacity: 0;
-    transition: 0.3s ease-in;
+    transition: 0.2s ease-in;
   }
   
   .pace .pace-progress {
@@ -49,7 +49,7 @@
   
   .pace.pace-inactive {
     opacity: 0;
-    transition: 0.3s;
+    transition: 0.2s;
     top: -8px;
   }
   @keyframes gradient {

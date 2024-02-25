@@ -1504,7 +1504,7 @@ input::placeholder {
   z-index: -999;
   width: 100%;
   height: 100%;
-  background: https://use-chatgpt.oss-cn-hangzhou.aliyuncs.com/1678878129_ChatGPT-4-is-now-available-but-to-use-it-you-must.jpg;
+  background: url(https://use-chatgpt.oss-cn-hangzhou.aliyuncs.com/1678878129_ChatGPT-4-is-now-available-but-to-use-it-you-must.jpg);
   background-attachment: local;
   background-position: center;
   background-size: cover;
@@ -3813,11 +3813,11 @@ h1.page-title + .tag-cloud-list {
   opacity: 1;
   -ms-filter: none;
   filter: none;
-  -webkit-transition: 0.3s;
-  -moz-transition: 0.3s;
-  -o-transition: 0.3s;
-  -ms-transition: 0.3s;
-  transition: 0.3s;
+  -webkit-transition: 0.2s;
+  -moz-transition: 0.2s;
+  -o-transition: 0.2s;
+  -ms-transition: 0.2s;
+  transition: 0.2s;
 }
 #loading-box .loading-img {
   width: 100px;
@@ -3825,11 +3825,11 @@ h1.page-title + .tag-cloud-list {
   border-radius: 50%;
   margin: auto;
   border: 4px solid #f0f0f2;
-  -webkit-animation-duration: 0.3s;
-  -moz-animation-duration: 0.3s;
-  -o-animation-duration: 0.3s;
-  -ms-animation-duration: 0.3s;
-  animation-duration: 0.3s;
+  -webkit-animation-duration: 0.2s;
+  -moz-animation-duration: 0.2s;
+  -o-animation-duration: 0.2s;
+  -ms-animation-duration: 0.2s;
+  animation-duration: 0.2s;
   -webkit-animation-name: loadingAction;
   -moz-animation-name: loadingAction;
   -o-animation-name: loadingAction;
