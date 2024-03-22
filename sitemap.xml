@@ -2,36 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://chatgptzt.com/use-OnlyFans/</loc>
+    <loc>https://chatgptzt.com/use-chatgpt/</loc>
     
-    <lastmod>2024-03-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://chatgptzt.com/phone-use-ChatGPT/</loc>
-    
-    <lastmod>2024-03-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://chatgptzt.com/register-chatGpt/</loc>
-    
-    <lastmod>2024-03-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://chatgptzt.com/use-chatgpt-to-polish-your-paper/</loc>
-    
-    <lastmod>2024-03-01</lastmod>
+    <lastmod>2024-03-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +13,43 @@
   <url>
     <loc>https://chatgptzt.com/upgrade-ChatGPT4/</loc>
     
-    <lastmod>2024-02-25</lastmod>
+    <lastmod>2024-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://chatgptzt.com/use-chatgpt-to-polish-your-paper/</loc>
+    
+    <lastmod>2024-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://chatgptzt.com/phone-use-ChatGPT/</loc>
+    
+    <lastmod>2024-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://chatgptzt.com/register-chatGpt/</loc>
+    
+    <lastmod>2024-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://chatgptzt.com/use-OnlyFans/</loc>
+    
+    <lastmod>2024-03-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -73,24 +82,36 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://chatgptzt.com/use-chatgpt/</loc>
-    
-    <lastmod>2024-02-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://chatgptzt.com/</loc>
-    <lastmod>2024-03-15</lastmod>
+    <lastmod>2024-03-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
+  <url>
+    <loc>https://chatgptzt.com/tags/ChatGPT/</loc>
+    <lastmod>2024-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://chatgptzt.com/categories/ChatGPT%E6%B3%A8%E5%86%8C%E5%8D%87%E7%BA%A7/</loc>
+    <lastmod>2024-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://chatgptzt.com/categories/ChatGPT%E4%BD%BF%E7%94%A8/</loc>
+    <lastmod>2024-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
